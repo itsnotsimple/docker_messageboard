@@ -46,8 +46,8 @@ Docker Compose управлява мрежата между контейнери
 
 🐳 Публикувани Docker образи
 
-- Backend: [https://hub.docker.com/r/kursmado/messageboard-backend](https://hub.docker.com/r/kursmado/messageboard-backend)
-- Frontend: [https://hub.docker.com/r/kursmado/messageboard-frontend](https://hub.docker.com/r/kursmado/messageboard-frontend)
+- Backend: https://hub.docker.com/r/kursmado/messageboard-backend
+- Frontend: https://hub.docker.com/r/kursmado/messageboard-frontend
 
 
 ☁️ GitHub хранилище
