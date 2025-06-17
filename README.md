@@ -44,11 +44,11 @@ web → използва psycopg2 за достъп до database
 
 Docker Compose управлява мрежата между контейнерите
 
-## 🐳 Публикувани Docker образи
+🐳 Публикувани Docker образи
 
-- **Backend:** [https://hub.docker.com/r/kursmado/messageboard-backend](https://hub.docker.com/r/kursmado/messageboard-backend)
-- **Frontend:** [https://hub.docker.com/r/kursmado/messageboard-frontend](https://hub.docker.com/r/kursmado/messageboard-frontend)
-d
+- Backend: [https://hub.docker.com/r/kursmado/messageboard-backend](https://hub.docker.com/r/kursmado/messageboard-backend)
+- Frontend: [https://hub.docker.com/r/kursmado/messageboard-frontend](https://hub.docker.com/r/kursmado/messageboard-frontend)
+
 
 ☁️ GitHub хранилище
 🔗 https://github.com/itsnotsimple/docker_messageboard
