@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MessageBoard</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    input, button { padding: 8px; font-size: 16px; }
+    table { margin-top: 20px; width: 100%; border-collapse: collapse; }
+    th, td { border: 1px solid #aaa; padding: 10px; }
+  </style>
+</head>
+<body>
+  <h1>📝 Message Board</h1>
+  <input id="input" placeholder="Write a note..." />
+  <button onclick="submitNote()">Post</button>
+  <table>
+    <thead><tr><th>#</th><th>Note</th></tr></thead>
+    <tbody id="board"></tbody>
+  </table>
+  <script src="script.js"></script>
+</body>
+</html>
