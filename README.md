@@ -45,9 +45,9 @@ web → използва psycopg2 за достъп до database
 Docker Compose управлява мрежата между контейнерите
 
 🐳 Публикувани Docker образи
-Backend: shwetli/messageboard-backend
+Backend: itsnotsimple/messageboard-backend
 
-Frontend: shwetli/messageboard-frontend
+Frontend: itsnotsimple/messageboard-frontend
 
 ☁️ GitHub хранилище
 🔗 https://github.com/itsnotsimple/docker_messageboard
